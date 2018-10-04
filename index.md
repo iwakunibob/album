@@ -1,6 +1,6 @@
 # My home town of Yuu 由宇町
 
-### [Home](index.md)
+### [Home](../index)
 
 #### View of back yard
 ![Back yard](1-BackWindowView.JPG)
