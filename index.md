@@ -14,5 +14,5 @@
 ### Upper Valley 
 ![Above](8-ValleyAbove.JPG)
 
-##$ Biking among cosmos
+### Biking among cosmos
 ![cosmos](7-cosmos.JPG)
